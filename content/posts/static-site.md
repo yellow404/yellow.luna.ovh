@@ -4,7 +4,7 @@ date: 2021-12-20T13:41:22+05:30
 draft: true
 ---
 
-this site is a collection of HTML files generated from markdown using [hugo](https://gohugo.io/). theme adapted from [hugo-theme-terminal](https://github.com/mrmierzejewski/hugo-theme-console). repo available [here](https://github.com/yellow404/yellow.luna.ovh).
+this site is a collection of HTML files generated from markdown using [hugo](https://gohugo.io/). theme adapted from [hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console). repo available [here](https://github.com/yellow404/yellow.luna.ovh).
 
 <!--more-->
 

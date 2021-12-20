@@ -1,4 +1,7 @@
 *.jpg
 *.png
 *.jpeg
+.hugo_build.lock
+deploy.cmd
 static/
+public/
