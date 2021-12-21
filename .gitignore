@@ -3,5 +3,5 @@
 *.jpeg
 .hugo_build.lock
 deploy.cmd
-static/
+/static/
 public/
