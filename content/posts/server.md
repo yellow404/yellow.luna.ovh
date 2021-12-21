@@ -11,7 +11,7 @@ Details about my [personal server](https://luna.ovh), mostly for my reference.
 
 I'm running a [Hetzner](https://hetzner.cloud) server running located in Helsinki, FI. Based on personal experience, I would highly recommend them if you are in the market for a server yourself.
 
-The server (named `Luna' because even servers need names) has 4 cores, 8GB RAM and 160GB SSD storage. It runs Debian 11 (my preferred server distribution thanks to widespread support and release cadence). I use Caddy as a reverse proxy, as Nginx is too much of a pain. Python and BASH scripts to keep things running, and systemd services and cron jobs run those scripts when necessary. I use Docker containers when possible to avoid dependency hell and isolate config files from application files. This also helps me back up my config files and other data as required. I plan on uploading my scripts to a Git repo when I have the time, for redundancy and to automate things down the line.
+The server (named *luna* because even servers need names) has 4 cores, 8GB RAM and 160GB SSD storage. It runs Debian 11 (my preferred server distribution thanks to widespread support and release cadence). I use Caddy as a reverse proxy, as Nginx is too much of a pain. Python and BASH scripts to keep things running, and systemd services and cron jobs run those scripts when necessary. I use Docker containers when possible to avoid dependency hell and isolate config files from application files. This also helps me back up my config files and other data as required. I plan on uploading my scripts to a Git repo when I have the time, for redundancy and to automate things down the line.
 
 I share the server with my friend [Silvy](https://github.com/Silveee), who maintains and hosts a few Discord bots for the community of some obscure Flash game (yes, Adobe Flash in 2022, don't ask).
 
@@ -32,7 +32,7 @@ The following applications require authentication (contact me if you need access
 
 - [anime](https://anime.luna.ovh) - media library (uses [Jellyfin](https://jellyfin.org/))
 - [files](https://files.luna.ovh/private) - private uploads
-- [wireguard](https://files.luna.ovh/private/vpn/Luna.conf) - VPN config (uses [Wireguard](http://wireguard.com/))
+- [wireguard](https://files.luna.ovh/private/vpn/Luna.conf) - VPN config (uses [WireGuard](http://wireguard.com/))
 
 ---
 
