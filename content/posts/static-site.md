@@ -1,15 +1,14 @@
 ---
-title: "setting up a static site"
+title: "Creating this site"
 date: 2021-12-20T13:41:22+05:30
-draft: true
+draft: false
 ---
 
-this site is a collection of HTML files generated from markdown using [hugo](https://gohugo.io/).
+This site is a collection of HTML files generated from Markdown using the [Hugo](https://gohugo.io/) framework.
 
+---
 <!--more-->
 
-theme adapted from [hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console). repo available [here](https://github.com/yellow404/yellow.luna.ovh).
+Markdown is fairly simple to use. Combine that with the ease of deploying static websites (and increased performance), and it's hard to not recommend using a static site when possible, ideally through [GitHub Pages](https://docs.github.com/en/pages) or a similar service. These services have a global CDN and provide one-click hosting, straight from your Git repo. Having said that, I'm currently hosting this site on my [personal server](https://yellow.luna.ovh/posts/server.md), for flexibility and extensibility.
 
-it's easy to get started with markdown and static sites are easy to deploy, so i'd highly recommend using a static site when possible (lower bandwidth requirements translate to higher speed and increased responsiveness).
-
-deploying static sites using [github pages](https://docs.github.com/en/pages) et al. is recommended. however, i'm hosting this site on my personal [server](https://luna.ovh/) that runs other applications as well for flexibility and extensibility.
+The theme was adapted from [hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console). The repo for the website itself can be found [here](https://github.com/yellow404/yellow.luna.ovh).
